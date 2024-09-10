@@ -16,17 +16,17 @@ This project presents a detailed analysis of pizza sales data using Power BI. Th
 
 - Visualizations:
 
-- Total Revenue: A visual representation of the total sales revenue.
-
-- Total Orders: Displays the number of distinct orders.
-
-- Total Pizza Sold: Highlights the total quantity of pizzas sold.
-
-- Top 5 and Bottom 5 Pizzas by Revenue and Quantity: Provides insights into the best and worst-performing pizzas.
-
-- Daily and Monthly Sales Trends: Shows patterns of sales throughout different days of the week and months of the year.
-
-- Percentage of Sales by Pizza Category and Size: Breakdown of total sales based on pizza type and size.
+  - Total Revenue: A visual representation of the total sales revenue.
+  
+  - Total Orders: Displays the number of distinct orders.
+  
+  - Total Pizza Sold: Highlights the total quantity of pizzas sold.
+  
+  - Top 5 and Bottom 5 Pizzas by Revenue and Quantity: Provides insights into the best and worst-performing pizzas.
+  
+  - Daily and Monthly Sales Trends: Shows patterns of sales throughout different days of the week and months of the year.
+  
+  - Percentage of Sales by Pizza Category and Size: Breakdown of total sales based on pizza type and size.
 
 ## Key Insights
 
